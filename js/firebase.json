@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/pinkvilla",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

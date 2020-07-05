@@ -1,0 +1,76 @@
+2020-07-05 07:55:12 : 07ee24e1-652c-4f56-b6b3-a9693d957f42 - Index initialized
+2020-07-05 08:03:33 : 39779d92-b4a2-45fe-a3b5-cb9490ab9d07 - Index initialized
+2020-07-05 08:03:34 : 39779d92-b4a2-45fe-a3b5-cb9490ab9d07 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 08:09:26 : d858950b-7bf0-4d6a-b9c5-2193243f70ab - Index initialized
+2020-07-05 08:09:26 : d858950b-7bf0-4d6a-b9c5-2193243f70ab - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:29:28 : 12d0d7fe-3f40-4570-8b72-1d8eda948377 - Index initialized
+2020-07-05 11:29:28 : 12d0d7fe-3f40-4570-8b72-1d8eda948377 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:33:24 : f2aa5c42-baf8-4f2d-8458-df5c86e67bcb - Index initialized
+2020-07-05 11:33:24 : f2aa5c42-baf8-4f2d-8458-df5c86e67bcb - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:33:24 : f2aa5c42-baf8-4f2d-8458-df5c86e67bcb - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 0.0075390338897705 Sec
+2020-07-05 11:34:17 : ffd40fb7-4349-4a0b-974f-a1316481cc82 - Index initialized
+2020-07-05 11:34:17 : ffd40fb7-4349-4a0b-974f-a1316481cc82 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:34:17 : ffd40fb7-4349-4a0b-974f-a1316481cc82 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 8.3060264587402 MS
+2020-07-05 11:43:55 : 4418ad29-0ec3-4194-9935-5c9abc48076d - Index initialized
+2020-07-05 11:43:55 : 4418ad29-0ec3-4194-9935-5c9abc48076d - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:43:55 : 4418ad29-0ec3-4194-9935-5c9abc48076d - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 5.9230327606201 MS
+2020-07-05 11:46:07 : 744e2987-a4a3-4bd1-8cec-a531642a9016 - Index initialized
+2020-07-05 11:46:07 : 744e2987-a4a3-4bd1-8cec-a531642a9016 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:46:07 : 744e2987-a4a3-4bd1-8cec-a531642a9016 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 13.272047042847 MS
+2020-07-05 11:46:09 : 0508376b-a99d-4dac-b3af-a28983e2bd12 - Index initialized
+2020-07-05 11:46:09 : 0508376b-a99d-4dac-b3af-a28983e2bd12 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:46:09 : 0508376b-a99d-4dac-b3af-a28983e2bd12 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 12.120008468628 MS
+2020-07-05 11:56:02 : bf5eea12-e7a4-407b-80a9-46516dfd3853 - Index initialized
+2020-07-05 11:56:02 : bf5eea12-e7a4-407b-80a9-46516dfd3853 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:56:02 : bf5eea12-e7a4-407b-80a9-46516dfd3853 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 11.844873428345 MS
+2020-07-05 11:57:03 : b2fb919f-a7d0-4f0f-a6c1-ad99d7df64b3 - Index initialized
+2020-07-05 11:57:03 : b2fb919f-a7d0-4f0f-a6c1-ad99d7df64b3 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:57:03 : b2fb919f-a7d0-4f0f-a6c1-ad99d7df64b3 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 9.1209411621094 MS
+2020-07-05 11:57:25 : dc5e7cbf-6dec-4de0-b009-f30bca019479 - Index initialized
+2020-07-05 11:57:25 : dc5e7cbf-6dec-4de0-b009-f30bca019479 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 11:57:25 : dc5e7cbf-6dec-4de0-b009-f30bca019479 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 11.006116867065 MS
+2020-07-05 12:00:33 : b7fcebe9-a0c0-4044-9ded-2291457ed0bb - Index initialized
+2020-07-05 12:00:33 : b7fcebe9-a0c0-4044-9ded-2291457ed0bb - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:00:33 : b7fcebe9-a0c0-4044-9ded-2291457ed0bb - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 13.033866882324 MS
+2020-07-05 12:02:22 : 4edac1e5-cc30-4b04-8616-f0e5dce1eda4 - Index initialized
+2020-07-05 12:02:22 : 4edac1e5-cc30-4b04-8616-f0e5dce1eda4 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:02:22 : 4edac1e5-cc30-4b04-8616-f0e5dce1eda4 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 12.863874435425 MS
+2020-07-05 12:02:42 : aa6b8683-ffc3-4d8b-a27c-508764cda0c4 - Index initialized
+2020-07-05 12:02:42 : aa6b8683-ffc3-4d8b-a27c-508764cda0c4 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:02:42 : aa6b8683-ffc3-4d8b-a27c-508764cda0c4 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 17.426013946533 MS
+2020-07-05 12:02:56 : 1748345b-7a35-4ef5-bcf7-c3b46b1e187a - Index initialized
+2020-07-05 12:02:56 : 1748345b-7a35-4ef5-bcf7-c3b46b1e187a - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:02:56 : 1748345b-7a35-4ef5-bcf7-c3b46b1e187a - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 11.062860488892 MS
+2020-07-05 12:03:22 : 7577ed54-fff8-460d-b35a-a54b40b07ba4 - Index initialized
+2020-07-05 12:03:22 : 7577ed54-fff8-460d-b35a-a54b40b07ba4 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:03:22 : 7577ed54-fff8-460d-b35a-a54b40b07ba4 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 10.714054107666 MS
+2020-07-05 12:03:38 : 4c9a8012-1b52-4e42-b742-f6d9e0401c82 - Index initialized
+2020-07-05 12:03:38 : 4c9a8012-1b52-4e42-b742-f6d9e0401c82 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:03:38 : 4c9a8012-1b52-4e42-b742-f6d9e0401c82 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 9.6461772918701 MS
+2020-07-05 12:07:50 : 2d958531-9aac-412d-8a41-160cb53bb22f - Index initialized
+2020-07-05 12:07:50 : 2d958531-9aac-412d-8a41-160cb53bb22f - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:07:50 : 2d958531-9aac-412d-8a41-160cb53bb22f - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 6.6540241241455 MS
+2020-07-05 12:09:34 : 59b5686f-0f0c-42c3-954f-3f81bc90a289 - Index initialized
+2020-07-05 12:09:34 : 59b5686f-0f0c-42c3-954f-3f81bc90a289 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:09:34 : 59b5686f-0f0c-42c3-954f-3f81bc90a289 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 9.2711448669434 MS
+2020-07-05 12:09:35 : 53b45a0f-3771-436b-ba6d-d5196a478fbb - Index initialized
+2020-07-05 12:09:35 : 53b45a0f-3771-436b-ba6d-d5196a478fbb - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:09:35 : 53b45a0f-3771-436b-ba6d-d5196a478fbb - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 16.093969345093 MS
+2020-07-05 12:10:15 : f3d71ed4-1c58-44fa-8800-300be6244161 - Index initialized
+2020-07-05 12:10:15 : f3d71ed4-1c58-44fa-8800-300be6244161 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:10:15 : f3d71ed4-1c58-44fa-8800-300be6244161 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 12.579917907715 MS
+2020-07-05 12:10:15 : 8791afcc-a5f4-4dec-bb0e-e3ea60e05de0 - Index initialized
+2020-07-05 12:10:15 : 8791afcc-a5f4-4dec-bb0e-e3ea60e05de0 - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:10:15 : 8791afcc-a5f4-4dec-bb0e-e3ea60e05de0 - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 13.661861419678 MS
+2020-07-05 12:10:19 : 0382ff4d-7dcc-48b9-b43f-a4d532dfaf9a - Index initialized
+2020-07-05 12:10:19 : 0382ff4d-7dcc-48b9-b43f-a4d532dfaf9a - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:10:19 : 0382ff4d-7dcc-48b9-b43f-a4d532dfaf9a - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 9.8741054534912 MS
+2020-07-05 12:10:19 : 144aff8b-c39c-4027-b2a3-e7438528907a - Index initialized
+2020-07-05 12:10:19 : 144aff8b-c39c-4027-b2a3-e7438528907a - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:10:19 : 144aff8b-c39c-4027-b2a3-e7438528907a - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 10.008811950684 MS
+2020-07-05 12:10:38 : 98968bcf-640b-4455-a2be-082b903dee8f - Index initialized
+2020-07-05 12:10:38 : 98968bcf-640b-4455-a2be-082b903dee8f - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:10:38 : 98968bcf-640b-4455-a2be-082b903dee8f - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 6.695032119751 MS
+2020-07-05 12:10:38 : ef2c6c09-4a14-46c3-8964-c544cc77f3ee - Index initialized
+2020-07-05 12:10:38 : ef2c6c09-4a14-46c3-8964-c544cc77f3ee - Calling api - https://cdn.pinkvilla.com/feed/fashion-section.json
+2020-07-05 12:10:38 : ef2c6c09-4a14-46c3-8964-c544cc77f3ee - time taken to call api - https://cdn.pinkvilla.com/feed/fashion-section.json, 12.342929840088 MS

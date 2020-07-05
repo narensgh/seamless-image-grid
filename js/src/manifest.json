@@ -1,0 +1,21 @@
+{
+    "name": "PINKVILLA - Project Management Tool",
+    "short_name": "PINKVILLA",
+    "icons": [
+        {
+            "src": "images/icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#27802A",
+    "theme_color": "#0B620E"
+}

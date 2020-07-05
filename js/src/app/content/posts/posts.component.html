@@ -1,0 +1,22 @@
+<div class="container-fluid">
+    <div class="masonry">
+        <!-- <app-post *ngFor="let post of allPosts" [post]="post"></app-post> -->
+
+        <div class="grid" *ngFor="let post of allPosts">
+            <!-- <img src="{{post.image.url}}" alt="{{post.title}}"> -->
+            <img src="{{post.image.url.replace('http:', '')}}" alt="{{post.title}}">
+            <div class="post_body">
+                <div class="relative">
+                    <a class="post_link" target="_blank" href="https://www.pinkvilla.com/{{post.path}}"></a>
+                    <p class="post_type"> {{post.type}}</p>
+                </div>
+                <div class="mt-auto">
+                    <span class="post_tag"> {{post.viewCount}}</span>
+                </div>
+            </div>
+            <h5 class="post_title"> {{ (post.title.length>24)? (post.title | slice:0:24)+' ...' : (post.title) }}
+                <!-- {{post.title}} -->
+            </h5>
+        </div>
+    </div>
+</div>
