@@ -16,7 +16,8 @@ class Index {
 
     public function start($apipath) {
         $resp = $this->libs->getRemoteData($this->pid, $apipath);
-        return $resp;
+        $response = json_decode($resp, true);
+        return $response;
     }
 
 }

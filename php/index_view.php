@@ -32,11 +32,11 @@
             <div class="masonry">
                 <?php foreach ($response as $post) { ?>
                     <div class="grid">
-                        <img src="<?php echo str_replace("http:", "", $post['image']) ?>" alt="<?php echo $post['title'] ?>">
+                        <img src="<?php echo str_replace("http:", "", $post['image']['url']) ?>" alt="<?php echo $post['title'] ?>">
                         <div class="post_body">
                             <div class="relative">
-                                <a class="post_link" target="_blank" href="https://www.pinkvilla.com/"></a>
-                                <?php // echo $post['path'] ?>
+                                <a class="post_link" target="_blank" href="https://www.pinkvilla.com<?php echo $post['path'] ?>"></a>
+                                
                                 <p class="post_type">
                                     <?php echo $post["type"] ?>
                                 </p>
