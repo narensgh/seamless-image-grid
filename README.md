@@ -31,7 +31,7 @@ These examples are also have the implementation of PWA(Progressive web apps)
 ## JavaScript (Angular 10) Execution Steps
 - Navigate into the JS folder
 - Execute `npm install` command to download the dependencies
-- Execute `npm serve` command to run on local.
+- Execute `ng serve` command to run on local.
 - Open `http://localhost:4200/` in browser.
 
 ## Demo Example
